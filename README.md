@@ -2,7 +2,7 @@
 ___
 **navybits:meteor-node-rules** is a simple wrapper on  [node-rules](https://www.npmjs.com/package/node-rules) npm package .  
 ### Dependencies
-  - ecmascript
+  - ecmascript  
 ### Installation:
 ```sh
 meteor add navybits:meteor-node-rules
