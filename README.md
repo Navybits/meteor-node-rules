@@ -13,7 +13,7 @@ simple example from the npmjs page :
 
 ```javascript
 /*
-The following instruction has been changed in order to assign the write
+The following instruction has been changed in order to assign the right
 rules engine class to the variable RuleEngine.
 */
 var RuleEngine = MeteorRules ; //require('node-rules');
