@@ -57,7 +57,7 @@ You can review the npm package link for more details :
 [https://www.npmjs.com/package/node-rules](https://www.npmjs.com/package/node-rules)
 
 ### Version
-0.0.1
+1.0.0
 
 ### License
 
